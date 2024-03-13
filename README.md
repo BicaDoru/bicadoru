@@ -1,7 +1,7 @@
   
 # 💫 About Me:
 As a determined second-year student launching my IT career, I’m actively seeking opportunities to apply my acquired knowledge and enhance my programming skills.
-+ I’m currently learning Artificial Intelligence, Ado.NET and React.
++ I’m currently learning Artificial Intelligence, Ado.NET, React and Angular.
 + Reach out to me at dorubica47@yahoo.com .
 
 # 💻 Tech Stack:
