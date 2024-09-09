@@ -1,6 +1,6 @@
   
 # 💫 About Me:
-As a determined second-year student launching my IT career, I’m actively seeking opportunities to apply my acquired knowledge and enhance my programming skills.
+Motivated third-year student in Computer Science, looking to apply acquired knowledge and skills in programming and software development. Strongly willing to resist new challenges and promote learning directly by means of hands-on experience in the IT field.
 + I’m currently learning Artificial Intelligence, Ado.NET, React and Angular.
 + Reach out to me at dorubica47@yahoo.com .
 
