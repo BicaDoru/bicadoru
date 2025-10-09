@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **Technologies for Java distributed applications and Cryptography**
 
 - 📫 How to reach me **https://www.linkedin.com/in/doru-bica-983768257/ or by email at bicadoru47@gmail.com**
+  
+- Strong knowledge in COBOL, DB2 and SAP ABAP due to previous professional experience.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
