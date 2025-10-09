@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bica Doru</h1>
-<h3 align="center">Motivated third-year student in Computer Science, looking to apply acquired knowledge and skills in programming and software development. Strongly willing to resist new challenges and promote learning directly by means of hands-on experience in the IT field.</h3>
+<h3 align="center">Motivated Distributed Systems in Internet master student in Computer Science, looking to apply acquired knowledge and skills in programming and software development. Strongly willing to resist new challenges and promote learning directly by means of hands-on experience in the IT field.</h3>
 
-- 🔭 I’m currently working on **my Bachelor thesis**
+- 🔭 I’m currently working on **school assignments**
 
-- 🌱 I’m currently learning **PostgreSQL and Laravel**
+- 🌱 I’m currently learning **Technologies for Java distributed applications and Cryptography**
 
 - 📫 How to reach me **https://www.linkedin.com/in/doru-bica-983768257/ or by email at bicadoru47@gmail.com**
 
